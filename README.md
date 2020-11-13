@@ -1,2 +1,2 @@
-# Practice-new-apps
-Interesting apps around the world
+# for practice
+# fun and interesting apps
